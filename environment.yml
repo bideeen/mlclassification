@@ -2,3 +2,5 @@ name: env
 dependencies:
   - pip:
     - opencv-python
+    - tensorflow
+    - keras
